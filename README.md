@@ -1,2 +1,2 @@
-# computeremulation
-my attempts are emulate a cpu in python
+# revamping the project so its redesigning a linux distro
+AH
